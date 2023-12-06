@@ -1,5 +1,20 @@
 ---
 layout: default
-title: "Home"
+title: "Jekyll-Tailwind-Alpine Starter"
 ---
-If you see this, it's working
+## Jekyll-Tailwind-Alpine Starter
+
+This repository provides a Jekyll starter with the following configured:
+
+- Jekyll-postcss plugin
+- package.json
+    - postcss
+    - autoprefixer
+    - tailwindcss
+    - tailwindcss/typography
+    - cssnano
+
+## Tasks
+
+🟥 Add other usefull Jekyll Plugins, opengraph?
+✅ Install Alpine
