@@ -13,8 +13,9 @@ This repository provides a Jekyll starter with the following configured:
     - tailwindcss
     - tailwindcss/typography
     - cssnano
+- [Alpine.js](https://alpinejs.dev/) script added to head
 
 ## Tasks
 
-🟥 Add other usefull Jekyll Plugins, opengraph?
-✅ Install Alpine
+- 🟥 Add other usefull Jekyll Plugins, opengraph?
+- ✅ Install Alpine
