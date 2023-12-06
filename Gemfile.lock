@@ -65,9 +65,9 @@ PLATFORMS
   arm64-darwin-23
 
 DEPENDENCIES
-  jekyll
+  jekyll (~> 4.3)
   jekyll-postcss
-  webrick
+  webrick (~> 1.8)
 
 BUNDLED WITH
    2.4.22
