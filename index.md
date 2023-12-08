@@ -17,5 +17,10 @@ This repository provides a Jekyll starter with the following configured:
 
 ## Tasks
 
+- [ ] Dark Mode
+- [x] Install Alpine
+
+## Ideas
+
 - 🟥 Add other usefull Jekyll Plugins, opengraph?
-- ✅ Install Alpine
+- 🟥 Integrate with a headless cms?
